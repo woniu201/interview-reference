@@ -301,7 +301,7 @@
 
 ##### [4.1.1 String类能被继承吗，为什么。](04.腾讯篇/4.1.1%20String%E7%B1%BB%E8%83%BD%E8%A2%AB%E7%BB%A7%E6%89%BF%E5%90%97%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88.md)
 
-##### 4.1.2 String，Stringbuffer，StringBuilder的区别。
+##### [4.1.2 String，Stringbuffer，StringBuilder的区别。](04.腾讯篇/4.1.2%20String%EF%BC%8CStringbuffer%EF%BC%8CStringBuilder%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 ##### 4.1.3 ArrayList和LinkedList有什么区别。
 
