@@ -299,7 +299,7 @@
 
 ##### [4.1.0 JAVA中的几种基本数据类型是什么，各自占用多少字节。](04.腾讯篇/4.1.0%20JAVA%E4%B8%AD%E7%9A%84%E5%87%A0%E7%A7%8D%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E5%90%84%E8%87%AA%E5%8D%A0%E7%94%A8%E5%A4%9A%E5%B0%91%E5%AD%97%E8%8A%82.md)
 
-##### 4.1.1 String类能被继承吗，为什么。
+##### [4.1.1 String类能被继承吗，为什么。](04.腾讯篇/4.1.1%20String%E7%B1%BB%E8%83%BD%E8%A2%AB%E7%BB%A7%E6%89%BF%E5%90%97%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88.md)
 
 ##### 4.1.2 String，Stringbuffer，StringBuilder的区别。
 
