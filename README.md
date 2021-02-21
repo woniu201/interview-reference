@@ -303,7 +303,7 @@
 
 ##### [4.1.2 String，Stringbuffer，StringBuilder的区别。](04.腾讯篇/4.1.2%20String%EF%BC%8CStringbuffer%EF%BC%8CStringBuilder%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
-##### 4.1.3 ArrayList和LinkedList有什么区别。
+##### [4.1.3 ArrayList和LinkedList有什么区别。](04.腾讯篇/4.1.3%20ArrayList%E5%92%8CLinkedList%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
 
 ##### 4.1.4 讲讲类的实例化顺序，比如父类静态数据，构造函数，字段，子类静态数据，构造函数，字段，当new的时候，他们的执行顺序。
 
