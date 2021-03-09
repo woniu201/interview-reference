@@ -321,7 +321,7 @@
 
 ##### [4.2.1 反射的原理，反射创建类实例的三种方式是什么。](04.腾讯篇/4.2.1%E5%8F%8D%E5%B0%84%E7%9A%84%E5%8E%9F%E7%90%86%EF%BC%8C%E5%8F%8D%E5%B0%84%E5%88%9B%E5%BB%BA%E7%B1%BB%E5%AE%9E%E4%BE%8B%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88.md)
 
-##### 4.2.2 反射中，Class.forName和ClassLoader区别 。
+##### [4.2.2 反射中，Class.forName和ClassLoader区别 。](04.腾讯篇/4.2.2%E5%8F%8D%E5%B0%84%E4%B8%AD%EF%BC%8CClass.forName%E5%92%8CClassLoader%E5%8C%BA%E5%88%AB.md)
 
 ##### 4.2.3 描述动态代理的几种实现方式，分别说出相应的优缺点。
 
